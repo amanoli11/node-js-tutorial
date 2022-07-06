@@ -1,6 +1,19 @@
 {
+  "name": "js-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amanoli11/node-js-tutorial.git"
+  },
   "author": "Aman Oli",
-  "dependencies": {
-    "express": "^4.18.1"
-  }
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amanoli11/node-js-tutorial/issues"
+  },
+  "homepage": "https://github.com/amanoli11/node-js-tutorial#readme"
 }
