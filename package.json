@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/amanoli11/node-js-tutorial.git"
   },
-  "author": "Aman Oli",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/amanoli11/node-js-tutorial/issues"
   },
-  "homepage": "https://github.com/amanoli11/node-js-tutorial#readme"
+  "homepage": "https://github.com/amanoli11/node-js-tutorial#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
